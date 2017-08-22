@@ -7,7 +7,7 @@ Repository Contents
 -------------------
 * **/Arduino/UltrasonicASCIItoDecimal** - Store incoming values into array and convert values to decimal.
 * **/Arduino/UltrasonicSerialPassthrough** - Sets up a software serial port to pass data between an ultrasonic range finder and the serial monitor.
-* **/UltrasonicSerialPassthroughFormatted** - This code formats the serial data as if you were connecting the sensor to an inverter and FTDI.
+* **/Arduino/UltrasonicSerialPassthroughFormatted** - This code formats the serial data as if you were connecting the sensor to an inverter and FTDI.
 
 Documentation
 --------------
