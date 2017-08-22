@@ -4,8 +4,8 @@
  * Date: August 22, 2017
  * 
  * Description: Set up a software serial port to pass data between an ultrasonic
- * range finder and the serial monitor. This code formats the serial data 
- * as if you were connecting the sensor to an inverter and FTDI.
+ * range finder and the serial monitor. The data is inverted. This code formats 
+ * the serial data as if you were connecting the sensor to an inverter and FTDI.
  * 
  * Hardware Hookup:
  * 
