@@ -13,7 +13,9 @@
  * GND - GND
  * Vcc - 5V
  * Tx - Pin 2 (software serial rx)
- * 
+ *
+ * This code is released under the [MIT License](http://opensource.org/licenses/MIT).
+ * Please review the LICENSE.md file included with this example. 
  *****************************************************************/
 // We'll use SoftwareSerial to communicate with the ultrasonic:
 #include <SoftwareSerial.h>
@@ -21,7 +23,7 @@
 // ultrasonic's RX is connected to pin 3 (Arduino's Software TX)
 SoftwareSerial ultrasonic(2, 3, true); // RX, TX, inverse_logic = true
 
-int c; // variable to store incoming data
+char c; // variable to store incoming data
 
 void setup() {
   // Set up both ports at 9600 baud. This value is most important
