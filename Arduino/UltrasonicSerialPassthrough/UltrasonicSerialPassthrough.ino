@@ -1,5 +1,5 @@
 /*****************************************************************
- * UUltrasonicSerialPassthrough
+ * UltrasonicSerialPassthrough.ino
  * By: Ho Yun "Bobby" Chan @ SparkFun Electronics Inc.
  *
  * Set up a software serial port to pass data between an ultrasonic
