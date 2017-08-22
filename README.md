@@ -1,9 +1,9 @@
-# Enginursday UltrasonicRangeFinder
-========================================
+# Enginursday Ultrasonic Range Finder
+--------------
 
-<a href="https://cdn.sparkfun.com/assets/home_page_posts/2/4/6/1/EnginursdayInvertedTTLRedBoard1.jpg"><div align="center"><img src="https://cdn.sparkfun.com/assets/home_page_posts/2/4/6/1/EnginursdayInvertedTTLRedBoard1.jpg" title="Enginursday Inverted Ultrasonic TTL RedBoard"></a>
+<a href="https://cdn.sparkfun.com/assets/home_page_posts/2/4/6/1/EnginursdayInvertedTTLRedBoard1.jpg"><div align="center"><img src="https://cdn.sparkfun.com/assets/home_page_posts/2/4/6/1/EnginursdayInvertedTTLRedBoard1.jpg" title="Enginursday Inverted Ultrasonic TTL RedBoard"></a></div>
 
-Example code to read a Maxbotic's ultrasonic range finder's [ [i.e. [LV-MaxSonar-EZ1](https://www.sparkfun.com/products/639)] inverted output.
+Example code to read a Maxbotic's ultrasonic range finder's [i.e. [LV-MaxSonar-EZ1](https://www.sparkfun.com/products/639)] inverted output.
 
 Repository Contents
 -------------------
