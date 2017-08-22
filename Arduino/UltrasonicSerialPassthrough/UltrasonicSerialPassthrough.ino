@@ -13,6 +13,9 @@
  * Vcc - 5V
  * Tx - Pin 2 (software serial rx)
  *
+ * This code is released under the [MIT License](http://opensource.org/licenses/MIT).
+ * Please review the LICENSE.md file included with this example. 
+ *
  *****************************************************************/
 // We'll use SoftwareSerial to communicate with the ultrasonic:
 #include <SoftwareSerial.h>
