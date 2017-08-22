@@ -1,7 +1,9 @@
 /*****************************************************************
  * UltrasonicSerialPassthroughFormatted.ino
+ * By: Ho Yun "Bobby" Chan @ SparkFun Electronics Inc.
+ * Date: August 22, 2017
  * 
- * Set up a software serial port to pass data between an ultrasonic
+ * Description: Set up a software serial port to pass data between an ultrasonic
  * range finder and the serial monitor. This code formats the serial data 
  * as if you were connecting the sensor to an inverter and FTDI.
  * 
