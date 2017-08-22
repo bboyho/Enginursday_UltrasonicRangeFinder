@@ -4,7 +4,7 @@
  * Date: August 22, 2017
  * 
  * Description: Set up a software serial port to pass data between an ultrasonic
- * range finder and the serial monitor.
+ * range finder and the serial monitor. The data is inverted.
  *
  * Hardware Hookup:
  *
