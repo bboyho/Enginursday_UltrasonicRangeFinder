@@ -17,8 +17,8 @@
   *
   * This code is released under the [MIT License](http://opensource.org/licenses/MIT).
   * Please review the LICENSE.md file included with this example. 
-
-*****************************************************************/
+  *
+  *****************************************************************/
 // We'll use SoftwareSerial to communicate with the ultrasonic:
 #include <SoftwareSerial.h>
 // ultrasonic's TX is connected to pin 2 (Arduino's Software RX)
