@@ -1,18 +1,18 @@
 /*****************************************************************
-  UltrasonicASCIItoDecimal.ino
-  By: Ho Yun "Bobby" Chan @ SparkFun Electronics Inc.
-
-  Set up a software serial port to pass data between an ultrasonic
-  range finder and the serial monitor. Store incoming values into
-  array and convert values to decimal. The array is also used to 
-  verify the final range.
-
-  Hardware Hookup:
-
-  Ultrasonic Range Finder - Redboard
-  GND - GND
-  Vcc - 5V
-  Tx - Pin 2 (software serial rx)
+  * UltrasonicASCIItoDecimal.ino
+  * By: Ho Yun "Bobby" Chan @ SparkFun Electronics Inc.
+  * 
+  * Set up a software serial port to pass data between an ultrasonic
+  * range finder and the serial monitor. Store incoming values into
+  * array and convert values to decimal. The array is also used to 
+  * verify the final range.
+  * 
+  * Hardware Hookup:
+  * 
+  * Ultrasonic Range Finder - Redboard
+  * GND - GND
+  * Vcc - 5V
+  * Tx - Pin 2 (software serial rx)
 
 *****************************************************************/
 // We'll use SoftwareSerial to communicate with the ultrasonic:
